@@ -24,4 +24,4 @@ Concepts Used
 
 How to Run
 
-python SMART_HABIT_TRACKER.py
+python SMART_HABIT._.TRACKER.py
